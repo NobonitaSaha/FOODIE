@@ -79,6 +79,7 @@ nav.black{
 	font-size: 2.4rem !important;
 	font-family: 'Josefin Sans', sans-serif;
 	line-height: 1.5 !important;
+	padding-top: 10px !important;
 }
 #home a {
 	padding: 12px 20px;
